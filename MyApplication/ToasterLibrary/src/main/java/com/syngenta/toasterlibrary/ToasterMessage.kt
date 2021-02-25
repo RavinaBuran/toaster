@@ -1,4 +1,4 @@
-package com.syngenta.myapplication
+package com.syngenta.toasterlibrary
 
 import android.content.Context
 import android.widget.Toast
